@@ -1,0 +1,28 @@
+# Compiled Java class & package files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+out/
+target/
+build/
+
+# Editor & IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+Desktop.ini
+
+# Logs
+*.log
